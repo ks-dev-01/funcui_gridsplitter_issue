@@ -16,6 +16,9 @@ Click once, it renders a stackpanel instead. Click again and it will render the 
 
 Now it works again, and will work no matter if the lists are chnaged again.
 
+Example:
+![image](https://github.com/sharp-fsh/funcui_gridsplitter_issue/blob/master/GridSplitterIssue.gif)
+
 
 
 
