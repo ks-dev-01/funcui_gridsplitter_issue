@@ -14,7 +14,7 @@ Programmatically change both lists - Grid Splitter doesn't work.
 Use a button to toggle whether to render the grid splitter or not.
 Click once, it renders a stackpanel instead. Click again and it will render the GriSplitter.
 
-Now it works again, and will work no matter if the lists are chnaged again.
+Now it works again, and will work no matter if the lists are changed again.
 
 Example:
 
